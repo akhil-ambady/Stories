@@ -1,0 +1,22 @@
+.container {
+    height: 200px;
+    position: center;
+  }
+  
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .row {
+      padding: 10px;
+  }
+
+  label {
+    font-weight: bolder;
+    padding-left: 30px;
+  }
